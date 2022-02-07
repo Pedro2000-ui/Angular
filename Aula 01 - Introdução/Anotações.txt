@@ -1,0 +1,30 @@
+Angular 2 - Framework da google
+
+https://angular.io - documentação do framework
+
+- É uma parceria entre o google + microsoft
+- Typescript - 
+- Open Source
+- Não é uma continuação do angular 1, foi reescrito
+- Uso de padrões web Components
+
+Template - Código HTML
+Aplicação orientada a componente
+
+Router - Responsável pela navegação das páginas
+Diretiva - Responsável por modificar elementos DOM e/ou seu comportamento
+
+---------------------------////--------------------------///-----------------------
+
+
+Angular 4 - Compatível com Angular 2
+
+Ideia - A cada 6 meses uma versão nova (mas mantendo a compatibilidade com versões anteriories)
+
+Ngif e NgFor - Melhorado
+
+expresão regular de email? (pattern) //Pesquisar
+breaking change??? //Pesquisar
+
+
+

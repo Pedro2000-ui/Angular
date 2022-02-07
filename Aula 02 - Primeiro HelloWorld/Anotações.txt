@@ -1,0 +1,8 @@
+Alguns Comandos Pós Instalação:
+- ng v - Versão
+- ng new nomedoprojeto  Criando projeto com Angular CLI
+- ng serve - Pra jogar o código no browser
+- Ctrl + c - interrompe o ng serve
+
+Criando Componente Automaticamente:
+- ng g c nomedocomponent 

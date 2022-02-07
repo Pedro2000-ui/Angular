@@ -1,0 +1,4 @@
+Módulo -> Arquivo que vai ajudar a organizar e modularizar nossa aplicação
+
+ng g m nomedomodulo - para criar um modulo pelo Angular CLI
+

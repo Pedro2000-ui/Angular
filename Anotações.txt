@@ -1,0 +1,18 @@
+NodeJs - Software para interpretar linguagem js
+
+CLI
+
+Sass
+
+Modulo - Referencia, contém, prepara e constrói o nosso component
+  Component
+	Service
+	  APIs/Backend
+	HTML - Estrutura
+	CSS - Estilo
+	TY - Funcionamento
+  
+Modulo carrega o Service, component utiliza o service
+*ngFor =""
+
+
